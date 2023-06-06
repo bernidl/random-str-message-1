@@ -1,6 +1,6 @@
 {
   "name": "random-str-message-1",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "Random String Messages",
   "main": "index.js",
   "scripts": {
